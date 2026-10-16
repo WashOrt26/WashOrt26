@@ -1,3 +1,5 @@
+
+
 # Michael Washington Ortega Hernandez
 
 > `root@cachyos:~# cat /etc/profile/current_focus.txt`
@@ -16,7 +18,7 @@
 
 ---
 
-### 📌 Proyectos Destacados (Proof of Work)
+### Proyectos Destacados (Proof of Work)
 
 * **[404shop-hardening](https://github.com/WashOrt26/404shop-hardening)** 
   * **Descripción:** Laboratorio completo de bastionado (*hardening*), auditoría DAST e infraestructura segura para una aplicación web full-stack (Django, PostgreSQL, React, Nginx).
@@ -25,6 +27,11 @@
 ---
 
 
-### contactos
+
+
+
+
+## Contactos
+
 * **LinkedIn:** [Michael Washington Ortega Hernández](https://linkedin.com/in/michael-washington-ortega-hernández-0694492ba/)
 * **Correo:** michaelw.ortegah@unac.edu.co / maikotg55@gmail.com
